@@ -1,0 +1,23 @@
+.kickstarter-projects {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .error {
+    color: #e74c3c;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    background-color: #fde2e2;
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  
+  .loading {
+    text-align: center;
+    color: #3498db;
+    font-weight: bold;
+    padding: 20px;
+  }
